@@ -1,0 +1,12 @@
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Project\FPT\SUMMER23\SE1622-NET_PRN221\Assignment1_PhanKimLong_HE161149\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
